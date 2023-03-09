@@ -3,17 +3,14 @@
     padding: 0;
     margin: 0;
 }
-/* Body Background Color */
+/* BODY STYLE */
 body {
     background-color: #d9dcd6;
 }
-/* Header */
-/* Logo Style */
-header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
+
+/* PARAGRAPH STYLE */
+p {
+    font-size: 16px;
 }
 
 /* HEADING STYLES */
@@ -35,14 +32,38 @@ h2 {
 h2 #footer {
     font-size: 20px;
 }
-
 /* Benefit Heading Style */
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* Top Navigation Style */
+/* LIST STYLE */
+/* Navigation List Type */
+ul {
+    list-style-type: none;
+}
+/* Navigation Display Style */
+li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+/* LINK STYLE */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* HEADER LOGO STYLE */
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+/* NAVIGATION STYLE */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,26 +71,9 @@ nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/* Navigation List Style */
-nav ul {
-    list-style-type: none;
-}
-/* Navigation Display Style */
-nav ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-/* Link Style */
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-/* Paragraph Style */
-p {
-    font-size: 16px;
-}
-/* Hero Image Style */
-.hero {
+
+/* HERO IMAGE STYLE */
+.background-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -78,7 +82,37 @@ p {
     background-position: center;
 }
 
-/* Aside with Benefits List Style */
+/* MAIN STYLE */
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+/* Service Card Style */
+.service {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* Service Image Style */
+.service img {
+    max-height: 200px;
+}
+/* SEO and Social Media Image Style */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+/* Reputation Image Style */
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* ASIDE STYLE */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -94,47 +128,14 @@ aside {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
 /* Benefit Image Style */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/* Main with Services List Style */
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-/* Service Card Style */
-.service {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
-/* Service Image Style */
-.service img {
-    max-height: 200px;
-}
-
-/* SEO and Social Media Image Style */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-/* Reputation Image Style */
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-/* Footer Style */
+/* FOOTER STYLE */
 footer {
     padding: 30px;
     clear: both;
