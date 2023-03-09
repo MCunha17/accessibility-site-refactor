@@ -3,27 +3,28 @@
     padding: 0;
     margin: 0;
 }
-
+/* Body Background Color */
 body {
     background-color: #d9dcd6;
 }
-
+/* Header */
+/* Logo Style */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* Header 1 Style in Logo */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Header 1 Style for SEO in Logo */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Top Navigation Style */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,25 +32,25 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Navigation List Style */
 .header div ul {
     list-style-type: none;
 }
-
+/* Navigation Display Style */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Link Style */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Paragraph Style */
 p {
     font-size: 16px;
 }
-
+/* Hero Image Style */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +59,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* SEO and Social Media Image Style */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Reputation Image Style */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* Main with Services List Style */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Aside with Benefits List Style */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,55 +86,55 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Lead Generation Card Style */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Brand Awareness Card Style */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Cost Management Card Style */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Lead Generation Header Style */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Brand Awareness Header Style */
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Cost Management Header Style */
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Lead Generation Image Style */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Brand Awareness Image Style */
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Cost Management Image Style */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Search Engine Optimization Card Style */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,7 +143,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Online Reputation Management Card Style */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -151,7 +152,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Social Media Marketing Card Style */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,41 +161,41 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Search Engine Optimization Image Style */
 .search-engine-optimization img {
     max-height: 200px;
 }
-
+/* Online Reputation Management Image Style */
 .online-reputation-management img {
     max-height: 200px;
 }
-
+/* Social Media Marketing Image Style */
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* Search Engine Optimization Header Style */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Online Reputation Management Header Style */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Social Media Marketing Header Style */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Footer Style */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* Footer Header 2 Style */
 .footer h2 {
     font-size: 20px;
 }
