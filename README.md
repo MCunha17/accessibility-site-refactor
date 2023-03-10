@@ -14,9 +14,9 @@ Lastly, I changed the generic website title to one that accurately depicted the 
 ## Screenshots
 Here are screenshots of the Marketing Agency's site with the refactored code:
 
-<img src="./assets/images/horiseon-refactored-site-top.png" alt="Horiseon refactored site, top.">
-<img src="./assets/images/horiseon-refactored-site-middle.png" alt="Horiseon refactored site, middle.">
-<img src="./assets/images/horiseon-refactored-site-bottom.png" alt="Horiseon refactored site, bottom.">
+![Refactored site,top](/Develop/assets/images/horiseon-refactored-site-top.png)
+![Refactored site, middle](/Develop/assets/images/horiseon-refactored-site-middle.png)
+![Refactored site,bottom](/Develop/assets/images/horiseon-refactored-site-bottom.png)
 
 ## Credits
 The starter code that I restructured for this accessibility project came from <a href="https://github.com/coding-boot-camp/urban-octo-telegram">Xandromus</a>. You can access my accessibility-site-refactor repository with this refactored code <a href="https://github.com/MCunha17/accessibility-site-refactor.git">here</a>.
