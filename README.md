@@ -11,8 +11,10 @@ So that this code can be easily maintained and updated in the future, I add comm
 
 Lastly, I changed the generic website title to one that accurately depicted the site's content. I hope to reference this code in the future to make sites more accessible and information available.
 
+You can acces the published refactored website <a href="https://mcunha17.github.io/accessibility-site-refactor/">here</a>.
+
 ## Screenshots
-Here are screenshots of the Marketing Agency's site with the refactored code:
+Below are screenshots of the Marketing Agency's site with the refactored code:
 
 ![Final refactored site](/assets/images/horiseon-refactored-site-final.jpg)
 ![Final refactored site, bottom](/assets/images/horiseon-site-screenshot-bottom.png)
